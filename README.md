@@ -9,4 +9,4 @@ BOM
 * [20Pcs 27mm Thickness 0.33mm Piezo Disc for Buzzer Pressure Sensor Speaker DIY](http://www.ebay.com/itm/151106903429) - 6 USD
 * 4pcs 30g fishing sinker - 49 NOK
 * [Raspberry Pi](http://www.raspberrypi.org/)
-* ADC
+* [MCP3008 10 bit ADC](http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en010530)
